@@ -1,4 +1,8 @@
 # DB-Project
+## Environment
+- Python 3
+- Jupyter Notebook
+- Run pip install -r requirements.txt for libraries
 ## Build
 - Step 0: Clone this repo
 - Step 1: Download datasets
