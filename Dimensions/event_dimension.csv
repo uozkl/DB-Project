@@ -85,79 +85,79 @@ event_key,event_name,event_type,event_location,event_neighbourhood,event_city,ev
 3000083,42nd Annual Denver Film Festival ,culture,1385 Curtis Street,cbd,Denver,20191030,20191111,address
 3000084,Denver Arts Week,culture,,,Denver,20191101,20191109,city
 3000085,BMO Vancouver Marathon,sport,,,Vancouver,20150507,20150507,city
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150725,20150725,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150729,20150729,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150801,20150801,neighbourhood
-3000085,Cherry Blossom Festival,culture,,,Vancouver,20150402,20150429,city
-3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20150116,20150201,city
-3000085,International Jazz Festival,music,Granville Island,Fairview,Vancouver,20150701,20150701,address
-3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20150701,20150702,address
-3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20150120,20150208,city
-3000085,TED Conference,culture,800 Griffiths Way,Central Business District,Vancouver,20151114,20151114,address
-3000085,sixth annual Vancouver Craft Beer Week,culture,50 Pacific Blvd,Central Business District,Vancouver,20150605,20150607,address
-3000085,Vancouver Folk Music Festival,music,JERICHO BEACH,West Point Grey,Vancouver,20150717,20150719,address
-3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20150924,20151009,address
-3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20150226,20150301,address
-3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20150802,20150802,neighbourhood
-3000085,BMO Vancouver Marathon,sport,,,Vancouver,20160410,20160410,city
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160723,20160723,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160727,20160727,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160730,20160730,neighbourhood
-3000085,Cherry Blossom Festival,culture,,,Vancouver,20160324,20160417,city
-3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20160115,20160131,city
-3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20160312,20160313,address
-3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20160702,20160703,address
-3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20160119,20160207,city
-3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20160215,20160219,address
-3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20160603,20160605,address
-3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20160715,20160717,address
-3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20160929,20161014,address
-3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20160224,20160228,address
-3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20160731,20160731,neighbourhood
-3000085,BMO Vancouver Marathon,sport,,,Vancouver,20170507,20170507,address
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170729,20170729,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170802,20170802,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170805,20170805,neighbourhood
-3000085,Cherry Blossom Festival,culture,,,Vancouver,20170330,20170423,city
-3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20170120,20170205,city
-3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20170311,20170312,address
-3000085,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20170624,20170625,address
-3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20170116,20170205,city
-3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20170424,20170428,address
-3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20170603,20170604,address
-3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20170713,20170716,address
-3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20170927,20171012,address
-3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20170212,20170220,address
-3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20170806,20170806,neighbourhood
-3000085,BMO Vancouver Marathon,sport,,,Vancouver,20180506,20180506,city
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180728,20180728,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180801,20180801,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180804,20180804,neighbourhood
-3000085,Cherry Blossom Festival,culture,,,Vancouver,20180403,20180429,city
-3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20180119,20180204,city
-3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20180310,20180311,address
-3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20180730,20180731,address
-3000085,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20180623,20180624,address
-3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20180116,20180204,city
-3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20180410,20180414,address
-3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20180602,20180603,address
-3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20180713,20180715,address
-3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20180927,20181012,address
-3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20180224,20180304,address
-3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20180805,20180805,neighbourhood
-3000085,BMO Vancouver Marathon,sport,,,Vancouver,20190505,20190505,city
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190627,20190627,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190731,20190731,neighbourhood
-3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190803,20190803,neighbourhood
-3000085,Cherry Blossom Festival,culture,,,Vancouver,20190404,20190428,city
-3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20190118,20190203,city
-3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20190309,20190310,address
-3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20190629,20190630,address
-3000085,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20190622,20190623,address
-3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20190117,20190203,city
-3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20190415,20190419,address
-3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20190608,20190609,address
-3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20190719,20190721,address
-3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20190926,20191011,address
-3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20190223,20190303,address
-3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20190804,20190804,neighbourhood
+3000086,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150725,20150725,neighbourhood
+3000087,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150729,20150729,neighbourhood
+3000088,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150801,20150801,neighbourhood
+3000089,Cherry Blossom Festival,culture,,,Vancouver,20150402,20150429,city
+3000090,Dine Out Vancouver Festival,culture,,,Vancouver,20150116,20150201,city
+3000091,International Jazz Festival,music,Granville Island,Fairview,Vancouver,20150701,20150701,address
+3000092,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20150701,20150702,address
+3000093,PuSh International Performing Arts Festival,culture,,,Vancouver,20150120,20150208,city
+3000094,TED Conference,culture,800 Griffiths Way,Central Business District,Vancouver,20151114,20151114,address
+3000095,sixth annual Vancouver Craft Beer Week,culture,50 Pacific Blvd,Central Business District,Vancouver,20150605,20150607,address
+3000096,Vancouver Folk Music Festival,music,JERICHO BEACH,West Point Grey,Vancouver,20150717,20150719,address
+3000097,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20150924,20151009,address
+3000098,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20150226,20150301,address
+3000099,Vancouver Pride Festival,culture,,West End,Vancouver,20150802,20150802,neighbourhood
+3000100,BMO Vancouver Marathon,sport,,,Vancouver,20160410,20160410,city
+3000101,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160723,20160723,neighbourhood
+3000102,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160727,20160727,neighbourhood
+3000103,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160730,20160730,neighbourhood
+3000104,Cherry Blossom Festival,culture,,,Vancouver,20160324,20160417,city
+3000105,Dine Out Vancouver Festival,culture,,,Vancouver,20160115,20160131,city
+3000106,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20160312,20160313,address
+3000107,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20160702,20160703,address
+3000108,PuSh International Performing Arts Festival,culture,,,Vancouver,20160119,20160207,city
+3000109,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20160215,20160219,address
+3000110,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20160603,20160605,address
+3000111,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20160715,20160717,address
+3000112,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20160929,20161014,address
+3000113,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20160224,20160228,address
+3000114,Vancouver Pride Festival,culture,,West End,Vancouver,20160731,20160731,neighbourhood
+3000115,BMO Vancouver Marathon,sport,,,Vancouver,20170507,20170507,address
+3000116,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170729,20170729,neighbourhood
+3000117,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170802,20170802,neighbourhood
+3000118,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170805,20170805,neighbourhood
+3000119,Cherry Blossom Festival,culture,,,Vancouver,20170330,20170423,city
+3000120,Dine Out Vancouver Festival,culture,,,Vancouver,20170120,20170205,city
+3000121,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20170311,20170312,address
+3000122,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20170624,20170625,address
+3000123,PuSh International Performing Arts Festival,culture,,,Vancouver,20170116,20170205,city
+3000124,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20170424,20170428,address
+3000125,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20170603,20170604,address
+3000126,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20170713,20170716,address
+3000127,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20170927,20171012,address
+3000128,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20170212,20170220,address
+3000129,Vancouver Pride Festival,culture,,West End,Vancouver,20170806,20170806,neighbourhood
+3000130,BMO Vancouver Marathon,sport,,,Vancouver,20180506,20180506,city
+3000131,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180728,20180728,neighbourhood
+3000132,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180801,20180801,neighbourhood
+3000133,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180804,20180804,neighbourhood
+3000134,Cherry Blossom Festival,culture,,,Vancouver,20180403,20180429,city
+3000135,Dine Out Vancouver Festival,culture,,,Vancouver,20180119,20180204,city
+3000136,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20180310,20180311,address
+3000137,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20180730,20180731,address
+3000138,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20180623,20180624,address
+3000139,PuSh International Performing Arts Festival,culture,,,Vancouver,20180116,20180204,city
+3000140,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20180410,20180414,address
+3000141,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20180602,20180603,address
+3000142,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20180713,20180715,address
+3000143,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20180927,20181012,address
+3000144,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20180224,20180304,address
+3000145,Vancouver Pride Festival,culture,,West End,Vancouver,20180805,20180805,neighbourhood
+3000146,BMO Vancouver Marathon,sport,,,Vancouver,20190505,20190505,city
+3000147,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190627,20190627,neighbourhood
+3000148,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190731,20190731,neighbourhood
+3000149,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190803,20190803,neighbourhood
+3000150,Cherry Blossom Festival,culture,,,Vancouver,20190404,20190428,city
+3000151,Dine Out Vancouver Festival,culture,,,Vancouver,20190118,20190203,city
+3000152,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20190309,20190310,address
+3000153,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20190629,20190630,address
+3000154,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20190622,20190623,address
+3000155,PuSh International Performing Arts Festival,culture,,,Vancouver,20190117,20190203,city
+3000156,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20190415,20190419,address
+3000157,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20190608,20190609,address
+3000158,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20190719,20190721,address
+3000159,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20190926,20191011,address
+3000160,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20190223,20190303,address
+3000161,Vancouver Pride Festival,culture,,West End,Vancouver,20190804,20190804,neighbourhood
