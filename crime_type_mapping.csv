@@ -3,7 +3,7 @@ Other Theft,larceny,theft-other,Theft - other,1,0,0
 Break and Enter Residential/Other,burglary,burglary-residence-by-force,Burglary of a residence with forced entry,1,0,0
 Mischief,public-disorder,criminal-mischief-other,Criminal mischief - other,1,0,0
 Break and Enter Commercial,burglary,burglary-business-by-force,Burglary of a business with forced entry,1,0,0
-Offense Against a Person,other-crimes-against-persons,assault-simple,Assault causing minor bodily injury,1,0,0
+Offence Against a Person,other-crimes-against-persons,assault-simple,Assault causing minor bodily injury,1,0,0
 Theft from Vehicle,theft-from-motor-vehicle,theft-items-from-vehicle,Theft of items from a vehicle,1,0,0
 Vehicle Collision or Pedestrian Struck (with Injury),traffic-accident,traffic-accident,Traffic accident,0,1,0
 Vehicle Collision or Pedestrian Struck (with Fatality),traffic-accident,traffic-accident-fatal,Traffic accident - Fatal,0,1,1

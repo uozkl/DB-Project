@@ -1,0 +1,163 @@
+event_key,event_name,event_type,event_location,event_neighbourhood,event_city,event_start_date,event_end_date,event_location_size
+3000000,Denver Day of Rock ,music,1601 Arapahoe St,cbd,Denver,20150523,20150523,address
+3000001,Denver Day of Rock ,music,16th St Mall,cbd,Denver,20150523,20150523,address
+3000002,Westword Music Showcase,music,,,Denver,20150620,20150620,city
+3000003,Bluebird District Music Festival,music,3317 E Colfax Ave,city-park,Denver,20150710,20150712,address
+3000004,The Underground Music Showcase,music,21 S Broadway,baker,Denver,20150723,20150726,address
+3000005,Higher Ground Music Festival,music,1111 S Avenue E,five-points,Denver,20150821,20150822,address
+3000006,RIOT FEST DENVER,music,4655 Humboldt St,elyria-swansea,Denver,20150828,20150830,address
+3000007,NBA,sport,1000 Chopper Cir,auraria,Denver,20151016,20151016,address
+3000008,2015 Draft Party,sport,1000 Chopper Cir,auraria,Denver,20150625,20150625,address
+3000009,LOHI Music Festival,music,2219 W 32nd Ave,highland,Denver,20160611,20160611,address
+3000010,Westword Music Showcase,music,,,Denver,20160625,20160625,city
+3000011,Underground Music Showcase,music,21 S Broadway,baker,Denver,20160728,20160731,address
+3000012,Vans Warped Tour,music,1000 Chopper Cir,auraria,Denver,20160731,20160731,address
+3000013,Riot Fest,music,4655 Humboldt St,elyria-swansea,Denver,20160902,20160904,address
+3000014,FISE World Denver,sport,890 Auraria Pkwy,auraria,Denver,20160903,20160905,address
+3000015,Denver Chalk Art Festival,culture,1430 Larimer St,union-station,Denver,20160604,20160605,address
+3000016,Denver Comic Con,culture,700 14th St,cbd,Denver,20160617,20160619,address
+3000017,Denver Arts Festival,culture,,,Denver,20160618,20160619,city
+3000018,Colorado Dragon Boat Festival,sport,1700 N Sheridan Blvd,sloan-lake,Denver,20160730,20160731,address
+3000019,A Taste of Colorado,culture,,civic-center,Denver,20160902,20160905,neighbourhood
+3000020,Denver Restaurant Week,culture,,,Denver,20170224,20170305,city
+3000021,The Edge at Denver Zoo Grand Opening Week,culture,2300 Steele St,city-park,Denver,20170317,20170324,address
+3000022,Denver March Powwow ,culture,4600 Humboldt St,elyria-swansea,Denver,20170324,20170326,address
+3000023,Collaboration Fest,culture,4655 Humboldt St,elyria-swansea,Denver,20170325,20170325,address
+3000024,Rodeo All-Star Weekend,sport,4655 Humboldt St,elyria-swansea,Denver,20170414,20170415,address
+3000025,Five Points Jazz Festival,music,,five-points,Denver,20170520,20170520,neighbourhood
+3000026,Denver Day of Rock,music,1001 16th St Mall,cbd,Denver,20170527,20170527,address
+3000027,Cinco de Mayo Festival,culture,,civic-center,Denver,20170506,20170507,neighbourhood
+3000028,Colfax Marathon,sport,,,Denver,20170520,20170521,city
+3000029,Denver Chalk Art Festival,culture,1430 Larimer St,union-station,Denver,20170603,20170604,address
+3000030,Denver PrideFest,culture,,civic-center,Denver,20170617,20170618,neighbourhood
+3000031,Denver Comic Con,culture,700 14th St,cbd,Denver,20170630,20170702,address
+3000032,Cherry Creek Arts Festival,culture,,cherry-creek,Denver,20170701,20170703,neighbourhood
+3000033,Independence Eve,culture,,civic-center,Denver,20170703,20170703,neighbourhood
+3000034,CONCACAF Gold Cup,sport,1701 Bryant St,sun-valley,Denver,20170713,20170713,address
+3000035,Slow Food Nations,culture,1430 Larimer St,union-station,Denver,20170714,20170716,address
+3000036,Underground Music Showcase,music,21 S Broadway,baker,Denver,20170727,20170730,address
+3000037,Colorado Dragon Boat Festival,sport,1700 N Sheridan Blvd,sloan-lake,Denver,20170729,20170730,address
+3000038,Colorado Classic Professional Bike Race & Festival,sport,,,Denver,20170811,20170813,city
+3000039,A Taste of Colorado,culture,,civic-center,Denver,20170901,20170904,neighbourhood
+3000040,Great American Beer Festival,culture,700 14th St,cbd,Denver,20171005,20171007,address
+3000041,40th Annual Denver Film Festival ,culture,1385 Curtis Street,cbd,Denver,20171103,20171111,address
+3000042,Denver March Powwow ,culture,4600 Humboldt St,elyria-swansea,Denver,20180323,20180325,address
+3000043,Collaboration Fest,culture,650 15th St,cbd,Denver,20180331,20180331,address
+3000044,Rodeo All-Star Weekend ,sport,4655 Humboldt St,elyria-swansea,Denver,20180413,20180414,address
+3000045,Five Points Jazz Festival,music,,five-points,Denver,20180519,20180519,neighbourhood
+3000046,Denver Day of Rock,music,1001 16th St Mall,cbd,Denver,20180526,20180526,address
+3000047,Cinco de Mayo Festival,culture,,civic-center,Denver,20180505,20180506,neighbourhood
+3000048,Colfax Marathon,sport,,,Denver,20180519,20180520,city
+3000049,Denver Chalk Art Festival,culture,1430 Larimer St,union-station,Denver,20180603,20180603,address
+3000050,Denver PrideFest ,culture,,civic-center,Denver,20180616,20180617,neighbourhood
+3000051,Denver Comic Con,culture,700 14th St,cbd,Denver,20180615,20180617,address
+3000052,Cherry Creek Arts Festival ,culture,,cherry-creek,Denver,20180606,20180608,neighbourhood
+3000053,Independence Eve,culture,,civic-center,Denver,20180703,20180703,neighbourhood
+3000054,Slow Food Nations ,culture,1430 Larimer St,union-station,Denver,20180713,20180715,address
+3000055,Underground Music Showcase,music,21 S Broadway,baker,Denver,20180727,20180729,address
+3000056,Colorado Dragon Boat Festival,sport,1700 N Sheridan Blvd,sloan-lake,Denver,20180728,20180729,address
+3000057,Velorama and Colorado Classic,sport,3525 Walnut St,five-points,Denver,20180817,20180819,address
+3000058,A Taste of Colorado,culture,,civic-center,Denver,20180831,20180903,neighbourhood
+3000059,Great American Beer Festival,culture,700 14th St,cbd,Denver,20180920,20180922,address
+3000060,41st Annual Denver Film Festival ,culture,2510 E Colfax Ave,congress-park,Denver,20181031,20181111,address
+3000061,41st Annual Denver Film Festival ,culture,1385 Curtis Street,cbd,Denver,20181031,20181111,address
+3000062,Denver Arts Week,culture,,,Denver,20181102,20181110,city
+3000063,Denver Restaurant Week,culture,,,Denver,20190221,20190301,city
+3000064,Denver March Powwow ,culture,4600 Humboldt St,elyria-swansea,Denver,20190322,20190324,address
+3000065,Collaboration Fest,culture,650 15th St,cbd,Denver,20190316,20190316,address
+3000066,Rodeo All-Star Weekend ,sport,4655 Humboldt St,elyria-swansea,Denver,20190412,20190413,address
+3000067,Five Points Jazz Festival,music,,five-points,Denver,20190518,20190518,neighbourhood
+3000068,Denver Day of Rock,music,1001 16th St Mall,cbd,Denver,20190525,20190525,address
+3000069,Cinco de Mayo Festival,culture,,civic-center,Denver,20190504,20190505,neighbourhood
+3000070,Colfax Marathon,sport,,,Denver,20190518,20190519,city
+3000071,Denver Chalk Art Festival,culture,1430 Larimer St,union-station,Denver,20190601,20190602,address
+3000072,Denver PrideFest ,culture,,civic-center,Denver,20190615,20190615,neighbourhood
+3000073,Denver Comic Con,culture,700 14th St,cbd,Denver,20190531,20190602,address
+3000074,Cherry Creek Arts Festival ,culture,,cherry-creek,Denver,20190705,20190707,neighbourhood
+3000075,Independence Eve,culture,,civic-center,Denver,20190703,20190703,neighbourhood
+3000076,Slow Food Nations ,culture,1430 Larimer St,union-station,Denver,20190719,20190721,address
+3000077,Underground Music Showcase,music,21 S Broadway,baker,Denver,20190726,20190728,address
+3000078,Colorado Dragon Boat Festival,sport,1700 N Sheridan Blvd,sloan-lake,Denver,20190607,20190607,address
+3000079,Velorama and Colorado Classic,sport,,,Denver,20190822,20190825,city
+3000080,A Taste of Colorado,culture,,civic-center,Denver,20190831,20190902,neighbourhood
+3000081,Great American Beer Festival,culture,700 14th St,cbd,Denver,20191003,20191005,address
+3000082,42nd Annual Denver Film Festival ,culture,2510 E Colfax Ave,congress-park,Denver,20191030,20191111,address
+3000083,42nd Annual Denver Film Festival ,culture,1385 Curtis Street,cbd,Denver,20191030,20191111,address
+3000084,Denver Arts Week,culture,,,Denver,20191101,20191109,city
+3000085,BMO Vancouver Marathon,sport,,,Vancouver,20150507,20150507,city
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150725,20150725,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150729,20150729,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20150801,20150801,neighbourhood
+3000085,Cherry Blossom Festival,culture,,,Vancouver,20150402,20150429,city
+3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20150116,20150201,city
+3000085,International Jazz Festival,music,Granville Island,Fairview,Vancouver,20150701,20150701,address
+3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20150701,20150702,address
+3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20150120,20150208,city
+3000085,TED Conference,culture,800 Griffiths Way,Central Business District,Vancouver,20151114,20151114,address
+3000085,sixth annual Vancouver Craft Beer Week,culture,50 Pacific Blvd,Central Business District,Vancouver,20150605,20150607,address
+3000085,Vancouver Folk Music Festival,music,JERICHO BEACH,West Point Grey,Vancouver,20150717,20150719,address
+3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20150924,20151009,address
+3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20150226,20150301,address
+3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20150802,20150802,neighbourhood
+3000085,BMO Vancouver Marathon,sport,,,Vancouver,20160410,20160410,city
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160723,20160723,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160727,20160727,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20160730,20160730,neighbourhood
+3000085,Cherry Blossom Festival,culture,,,Vancouver,20160324,20160417,city
+3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20160115,20160131,city
+3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20160312,20160313,address
+3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20160702,20160703,address
+3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20160119,20160207,city
+3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20160215,20160219,address
+3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20160603,20160605,address
+3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20160715,20160717,address
+3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20160929,20161014,address
+3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20160224,20160228,address
+3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20160731,20160731,neighbourhood
+3000085,BMO Vancouver Marathon,sport,,,Vancouver,20170507,20170507,address
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170729,20170729,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170802,20170802,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20170805,20170805,neighbourhood
+3000085,Cherry Blossom Festival,culture,,,Vancouver,20170330,20170423,city
+3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20170120,20170205,city
+3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20170311,20170312,address
+3000085,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20170624,20170625,address
+3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20170116,20170205,city
+3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20170424,20170428,address
+3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20170603,20170604,address
+3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20170713,20170716,address
+3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20170927,20171012,address
+3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20170212,20170220,address
+3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20170806,20170806,neighbourhood
+3000085,BMO Vancouver Marathon,sport,,,Vancouver,20180506,20180506,city
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180728,20180728,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180801,20180801,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20180804,20180804,neighbourhood
+3000085,Cherry Blossom Festival,culture,,,Vancouver,20180403,20180429,city
+3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20180119,20180204,city
+3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20180310,20180311,address
+3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20180730,20180731,address
+3000085,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20180623,20180624,address
+3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20180116,20180204,city
+3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20180410,20180414,address
+3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20180602,20180603,address
+3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20180713,20180715,address
+3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20180927,20181012,address
+3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20180224,20180304,address
+3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20180805,20180805,neighbourhood
+3000085,BMO Vancouver Marathon,sport,,,Vancouver,20190505,20190505,city
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190627,20190627,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190731,20190731,neighbourhood
+3000085,Celebration of Light,culture,English Bay Beach,Kitsilano,Vancouver,20190803,20190803,neighbourhood
+3000085,Cherry Blossom Festival,culture,,,Vancouver,20190404,20190428,city
+3000085,Dine Out Vancouver Festival,culture,,,Vancouver,20190118,20190203,city
+3000085,HSBC Canada Sevens,sport,777 Pacific Blvd,Central Business District,Vancouver,20190309,20190310,address
+3000085,International Jazz Festival,music,1300 Pacific Blvd,Central Business District,Vancouver,20190629,20190630,address
+3000085,International Jazz Festival,music,750 Hornby St,Central Business District,Vancouver,20190622,20190623,address
+3000085,PuSh International Performing Arts Festival,culture,,,Vancouver,20190117,20190203,city
+3000085,TED Conference,culture,1055 Canada Place,Central Business District,Vancouver,20190415,20190419,address
+3000085,Vancouver Craft Beer Week,culture,2901 E Hastings,Central Business District,Vancouver,20190608,20190609,address
+3000085,Vancouver Folk Music Festival,music,JERICHO BEACH PARK,West Point Grey,Vancouver,20190719,20190721,address
+3000085,Vancouver International Film Festival,culture,1181 Seymour St.,Central Business District,Vancouver,20190926,20191011,address
+3000085,Vancouver International Wine Festival,culture,1055 Canada Place,Central Business District,Vancouver,20190223,20190303,address
+3000085,Vancouver Pride Festival,culture,,West End,Vancouver,20190804,20190804,neighbourhood
