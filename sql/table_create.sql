@@ -3,8 +3,8 @@ location_Key int,
 city varchar,
 location_name varchar,
 neighborhood varchar,
-longitude float,
 latiude float,
+longitude float,
 crime_rate float,
 primary key (location_Key)
 );
@@ -28,15 +28,15 @@ primary key (crime_key)
 
 create table date_dimension(
 date_key int,
-day_of_week int,
-day_of_month int,
-month int,
 year int,
+month int,
+day int,
+day_of_week varchar,
 is_weekend int,
-is_holiday_denver int,
-holiday_name_denver varchar,
 is_holiday_vancouver int,
 holiday_name_vancouver varchar,
+is_holiday_denver int,
+holiday_name_denver varchar,
 primary key (date_key)
 );
 
@@ -45,7 +45,11 @@ event_key int,
 event_name varchar,
 event_type varchar,
 event_location varchar,
-event_size varchar,
+event_neighbourhood varchar,
+event_city varchar,
+event_start_date int,
+event_end_date int,
+event_location_size varchar,
 primary key (event_key)
 );
 
