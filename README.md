@@ -24,3 +24,5 @@
   - https://www.macrotrends.net/cities/22972/denver/population
 - Data for CSI weight
   - https://www150.statcan.gc.ca/n1/pub/85-004-x/2009001/t001-eng.htm
+- CSI Calculation fomula
+  - https://www.researchgate.net/publication/309418379_An_Organized_Crime_Severity_Index_Discussion_of_a_Proposed_Methodology#pf8
