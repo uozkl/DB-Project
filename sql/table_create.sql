@@ -3,7 +3,7 @@ location_Key int,
 city varchar,
 location_name varchar,
 neighborhood varchar,
-latiude float,
+latitude float,
 longitude float,
 crime_rate float,
 primary key (location_Key)
@@ -23,6 +23,7 @@ end_second int,
 report_hour int,
 report_minute int,
 report_second int,
+crime_severity_index float,
 primary key (crime_key)
 );
 

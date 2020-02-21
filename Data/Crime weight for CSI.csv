@@ -1,0 +1,16 @@
+﻿Denver Crime catrgory,Canada offence type,Weight
+public-disorder,Disturb the peace,9
+drug-alcohol,Cannabis – possession,7
+sexual-assault,Sexual assault - level 3,1047
+white-collar-crime,Fraud,109
+traffic-accident,None,0
+murder,Murder 1 st and 2 nd degree,7042
+robbery,Robbery,583
+aggravated-assault,Assault - level, 3405
+arson,Average weight,69
+burglary,Breaking and entering,187
+larceny,"Theft over $5,000",139
+theft-from-motor-vehicle,"Theft over $5,000",139
+auto-theft,Theft of a motor vehicle,84
+all-other-crimes,Average weight,69
+other-crimes-against-persons,Criminal harassment,45
