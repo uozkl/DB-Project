@@ -18,3 +18,9 @@
   - Run Vancouver Preprocess.ipynb for dimensions related to Vancouver
 - Step 6: Run Merge Process.ipynb to combine Vancouver data with Denver data, and generate crime dimension, location dimension and fact table
 - Step 7: All resulting data in ./Dimensions, run script in ./sql if needed
+## Data source
+- Data for population 
+  - https://www.macrotrends.net/cities/20404/vancouver/population
+  - https://www.macrotrends.net/cities/22972/denver/population
+- Data for CSI weight
+  - https://www150.statcan.gc.ca/n1/pub/85-004-x/2009001/t001-eng.htm
